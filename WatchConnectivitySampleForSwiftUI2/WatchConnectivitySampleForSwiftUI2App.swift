@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+//test
 @main
 struct WatchConnectivitySampleForSwiftUI2App: App {
     var body: some Scene {
